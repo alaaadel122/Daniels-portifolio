@@ -1,2 +1,2 @@
-# Daniels-portifolio
-Self learning portfolio website Using HTML , CSS , Bootstrap
+# Daniels-portifolio.
+# Self learning portfolio website using HTML, CSS, Bootstrap.
