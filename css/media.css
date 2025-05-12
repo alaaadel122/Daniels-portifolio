@@ -1,0 +1,45 @@
+/* sm */
+@media (min-width: 640px) {}
+
+/* md */
+@media (min-width: 768px) {
+    #home{
+      background-position: center;
+   }
+}
+
+/* lg */
+@media (min-width: 991px) {
+  
+   .header-caption h2 {
+     font-size: 60px;
+    
+
+}
+   .container {
+     width: 80% !important;
+}
+
+   .testimonial-item img{
+      width: 10%;
+ }
+ .about .about-img {
+   left: 100px;
+}
+.about-img img{
+   width: 75%;
+}
+}
+
+/* xl */
+@media (min-width: 1280px) {
+
+}
+
+/*xxl */
+@media (min-width: 1536px) {}
+
+/* 
+
+
+*/
